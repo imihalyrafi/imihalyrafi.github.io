@@ -3,35 +3,17 @@
         "apps": [],
         "details": [
             {
-                "appID": "UJKEA26Q9W.com.rbinternational.retail.mobileapp",
-                "paths": [
-                    "/digit/*",
-                    "/myraiffeisen-app/*",
-                    "/confirm-email/*"
-                ]
-            },
-            {
-                "appID": "UJKEA26Q9W.com.rbinternational.retail.mobileapp.uat",
-                "paths": [
-                    "/digit/*",
-                    "/myraiffeisen-app/*",
-                    "/confirm-email/*"
-                ]
-            },
-            {
                 "appID": "UJKEA26Q9W.com.rbinternational.retail.mobileapp.uat.snapshot",
                 "paths": [
-                    "/digit/*",
                     "/myraiffeisen-app/*",
-                    "/confirm-email/*"
+                    "/myra-app"
                 ]
             },
             {
                 "appID": "UJKEA26Q9W.com.rbinternational.retail.mobileapp.debug",
                 "paths": [
-                    "/digit/*",
                     "/myraiffeisen-app/*",
-                    "/confirm-email/*"
+                    "/myra-app"
                 ]
             }
         ]
