@@ -4,6 +4,6 @@
 
 ---
 
-- [imihalyrafi.github.io/myraiffeisen-app?cGFnZUlkPW9ubGluZVBlcnNvbmFsTG9hbg==](imihalyrafi.github.io/myraiffeisen-app?cGFnZUlkPW9ubGluZVBlcnNvbmFsTG9hbg==)
-- [imihalyrafi.github.io/myra-app?cGFnZUlkPW9ubGluZVBlcnNvbmFsTG9hbg==](imihalyrafi.github.io/myra-app?cGFnZUlkPW9ubGluZVBlcnNvbmFsTG9hbg==)
+- [https://imihalyrafi.github.io/myraiffeisen-app?cGFnZUlkPW9ubGluZVBlcnNvbmFsTG9hbg==](https://imihalyrafi.github.io/myraiffeisen-app?cGFnZUlkPW9ubGluZVBlcnNvbmFsTG9hbg==)
+- [https://imihalyrafi.github.io/myra-app?cGFnZUlkPW9ubGluZVBlcnNvbmFsTG9hbg==](https://imihalyrafi.github.io/myra-app?cGFnZUlkPW9ubGluZVBlcnNvbmFsTG9hbg==)
   
